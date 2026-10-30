@@ -19,5 +19,5 @@ __pycache__/
 *.pem
 secrets.*
 
-# Keys and credentials
+# Keys and Credentials
 keys/
